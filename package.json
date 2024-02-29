@@ -1,0 +1,19 @@
+{
+  "name": "authidslatam",
+  "version": "1.0.0",
+  "description": "Serie de funciones para almacenar datos de authenticacion para las aplicaciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosmel-Merlo/IDSLatam-Authentication.git"
+  },
+  "author": "Rosmel Merlo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rosmel-Merlo/IDSLatam-Authentication/issues"
+  },
+  "homepage": "https://github.com/Rosmel-Merlo/IDSLatam-Authentication#readme"
+}
